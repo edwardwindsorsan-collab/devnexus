@@ -1,0 +1,6 @@
+{
+  "name": "DevNexus OS Virtual Simulator",
+  "description": "An advanced mobile Android dev phone virtualization dashboard representing device emulation, hardware identity management, eSIM profiles, and live network activity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
